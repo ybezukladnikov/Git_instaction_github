@@ -98,7 +98,7 @@ git diff
 git branch
  ```
 
-![git_branch](./git_branch_1.png)
+![git_branch](./images/git_branch_1.png)
 
 Мы видим, что у нас существует одна ветка `master` и знаком звездочка обозначается, 
 что мы на ней. 
